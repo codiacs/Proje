@@ -2,4 +2,5 @@
 
 
 		bu bir makale yazısıdır
-
+	
+		bu makale özetidir
